@@ -1,0 +1,57 @@
+@media only screen and (max-width: 767px) {
+    .btn-custom {
+    font-size: 1.2em;
+    }
+
+    .image-text-section h2 {
+        font-size: 1.8em;
+        margin-top: 50px;
+    }
+
+    .image-text-section p {
+        width: 90%;
+        font-size: 1em;
+       }
+
+    .image-text-section img{
+        width: 80%;
+        margin-right: 20px;
+    }
+
+    .card2 {
+        width: 40%;
+        margin-right: 530px;
+    }
+
+    .card2 p {
+        font-size: 0.6em;
+    }
+
+    .btn-custom1 {
+        font-size: 1em;
+        margin-left: 0;
+    }
+
+    .faq {
+        height: 700px;
+    }
+    .faq-container {
+        width: 70%;
+        
+    }
+
+    .faq-question, .faq-answer {
+        font-size: 0.7em;
+        }
+
+    footer h2 {
+        font-size: 1.2em;
+    }
+    footer p {
+        font-size: 0.8em;
+    }
+
+    footer ul li a {
+        font-size: 0.8em;
+    }
+    }
